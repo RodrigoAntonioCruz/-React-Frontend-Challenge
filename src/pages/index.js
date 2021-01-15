@@ -2,7 +2,7 @@ import React from 'react';
 
 import HostGatorHeader from '../components/header-nav';
 import Header from './Header';
-
+import Footer from './Footer';
 
 import AppProvider from '../hooks';
 
@@ -21,7 +21,8 @@ const Index = () => {
           <Header />
         </HeaderContainer>
 
-
+        <Footer>
+        </Footer>
 
       </MainPage>
     </AppProvider>
