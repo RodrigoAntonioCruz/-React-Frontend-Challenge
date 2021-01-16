@@ -9,7 +9,7 @@
 
 ## Challenge Context
 
-Create a web page following this [layout](https://xd.adobe.com/spec/31631e0c-bd84-4a01-5f67-27878b4deffa-4752/){:target="_blank" rel="noopener"}, which you can consult via [API](https://2891637c-8ab7-4a84-906b-a98465726f85.mock.pstmn.io/prices){:target="_blank" rel="noopener"}: to obtain the names and prices of hosting plans.
+Create a web page following this <a href="https://xd.adobe.com/spec/31631e0c-bd84-4a01-5f67-27878b4deffa-4752/" target="_blank" alt="layout">layout</a>, which you can consult via <a href="https://2891637c-8ab7-4a84-906b-a98465726f85.mock.pstmn.io/prices" target="_blank" alt="API">API:</a> to obtain the names and prices of hosting plans.
 
 
 <h4>Technologies used</h4>
@@ -25,9 +25,9 @@ Create a web page following this [layout](https://xd.adobe.com/spec/31631e0c-bd8
 
 ### Requirements for your installation environment
 
-1. Install [Node.js](https://nodejs.org/en/download/){:target="_blank" rel="noopener"} LTS verion
+1. Install <a href="https://nodejs.org/en/download/" target="_blank" alt="NodeJS">Node.js</a> LTS verion
 
-2. Install [Git](https://git-scm.com/){:target="_blank" rel="noopener"} Stable version
+2. Install <a href="https://git-scm.com/" target="_blank" alt="Git">Git</a> Stable version
 
 
 ### Getting started
@@ -43,28 +43,26 @@ Create a web page following this [layout](https://xd.adobe.com/spec/31631e0c-bd8
 
 ### Project running
 
-If you prefer, you can access the project running on this temporary [Link](https://challenge.rodrigodacruz.com.br/){:target="_blank" rel="noopener"}.
+If you prefer, you can access the project running on this temporary <a href="https://challenge.rodrigodacruz.com.br/" target="_blank" alt="Challenge link">Link.</a>
 
 
 ### Application screenshots
 
 
-# Desktop screen capture
+#### Desktop screen capture
 
 <p align="center">
   <img align="center" target="_blank" alt="Desktop screen capture" src="https://challenge.rodrigodacruz.com.br/static/screen-1.png"/>
 </p>
 
-# Screenshot of modal
+#### Screenshot of modal
 
 <p align="center">
   <img align="center" target="_blank" alt="Screenshot of modal" src="https://challenge.rodrigodacruz.com.br/static/screen-3.png"/>
 </p>
 
-# Screenshot mobile device
+#### Screenshot mobile device
 
 <p align="center">
   <img align="center" target="_blank" alt="Screenshot mobile device" src="https://challenge.rodrigodacruz.com.br/static/screen-2.png"/>
 </p>
-
-
