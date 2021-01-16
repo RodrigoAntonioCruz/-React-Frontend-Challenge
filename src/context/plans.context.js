@@ -8,7 +8,7 @@ import { useSelector } from 'react-redux';
 
 const PlansContext = createContext();
 
-const PlansContextProvider = props => {
+const ContextProvider = props => {
   const { children } = props;
   const allPlans = useSelector(state => {
     return state.allPlans ? state.allPlans : [];
@@ -74,4 +74,4 @@ function useDataPlans() {
   return context;
 }
 
-export { PlansContextProvider, useDataPlans };
+export { ContextProvider, useDataPlans };

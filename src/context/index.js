@@ -1,10 +1,10 @@
 import React from 'react';
-import { PlansContextProvider } from './plans.context';
+import { ContextProvider } from './plans.context';
 
 const AppProvider = ({ children }) => (
-  <PlansContextProvider>
+  <ContextProvider>
     {children}
-  </PlansContextProvider>
+  </ContextProvider>
 );
 
 export default AppProvider;

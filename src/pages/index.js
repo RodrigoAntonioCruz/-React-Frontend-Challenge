@@ -1,14 +1,14 @@
 import React from 'react';
-
 import HostGatorHeader from '../components/header-nav';
 import Header from './Header';
+import ContentView from './ContentView';
+import SelectPeriodView from './SelectPeriodView';
 import Footer from './Footer';
-
-import AppProvider from '../hooks';
-
+import AppProvider from '../context';
 import {
   MainPage,
-  HeaderContainer
+  HeaderContainer,
+  ViewContainer
 } from './styles';
 
 const Index = () => {
@@ -20,6 +20,13 @@ const Index = () => {
           <HostGatorHeader />
           <Header />
         </HeaderContainer>
+
+          <ViewContainer>
+
+            <SelectPeriodView/>
+            <ContentView />
+
+          </ViewContainer>
 
         <Footer>
         </Footer>

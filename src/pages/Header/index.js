@@ -1,7 +1,7 @@
 import React from "react";
 import ArrowDropDownButton from '../../assets/icon_arrow_down.svg';
 import CheckIcon from '@material-ui/icons/Check';
-import { useDataPlans } from "../../hooks/plans.context";
+import { useDataPlans } from "../../context/plans.context";
 
 import {
   Container,
@@ -53,8 +53,8 @@ const Header = () => {
         </HeaderContainer>
 
         <BoxContainer>
-          <svg viewBox="0 0 500 60" preserveAspectRatio="none">
-            <path d="M0.00,00.00 C250.00,20 250.00,20 500.00,00.00 L500.00,0.00 L0.00,0.00 Z"></path>
+          <svg viewBox="75 0 455 150" preserveAspectRatio="none">
+            <path d="M0.00,00.00 C250.00,20 230.00,20 525.10,00.00 L500.00,0.00 L0.00,0.00 Z"></path>
           </svg>
 
           <button onClick={() =>

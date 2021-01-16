@@ -152,20 +152,20 @@ export const DescriptionContent = styled.div`
 `;
 
 export const DescriptionView = styled.div`
-  text-align: center;
+    text-align: center;
 
-  > svg {
-    position: relative;
-    top: 3px;
+    > svg {
+      position: relative;
+      top: 3px;
+    }
+
+    > span {
+      font-size: 14px;
+      padding-left: 3px;
+      padding-right: 10px;
+      color: ${colors.gray};
+    }
   }
-
-  > span {
-    font-size: 14px;
-    padding-left: 3px;
-    padding-right: 10px;
-    color: ${colors.gray};
-  }
-
 `;
 
 export const BoxContainer = styled.div`
@@ -207,7 +207,7 @@ export const BoxContainer = styled.div`
       margin-top: 1vh;
     }
 
-    @media only screen and (min-width: 1025px) {
+    @media only screen and (min-width: 1500px) {
       margin-top: 3vh;
     }
   }

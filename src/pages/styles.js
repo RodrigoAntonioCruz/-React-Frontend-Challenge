@@ -8,8 +8,7 @@ export const MainPage = styled.div``;
 export const HeaderContainer = styled.div`
   animation: 1.0s ${keyframes`${slideInDown}`}; 
 `;
-
-export const PlansViewContainer = styled.div`
+export const ViewContainer = styled.div`
   background-color: ${colors.lightGray};
   display: flex;
   flex: 1;
