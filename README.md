@@ -32,7 +32,7 @@ Create a web page following this [layout](https://xd.adobe.com/spec/31631e0c-bd8
 
 ### Getting started
 
-1.Clone or download the project from the repository to your computer.
+1. Clone or download the project from the repository to your computer.
 
 2. Access the project root and open the terminal or command prompt and run: `npm install` to download the dependencies.
 
