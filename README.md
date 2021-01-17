@@ -25,7 +25,7 @@ Create a web page following this <a href="https://xd.adobe.com/spec/31631e0c-bd8
 
 ### Requirements for your installation environment
 
-1. Install <a href="https://nodejs.org/en/download/" target="_blank" alt="NodeJS">Node.js</a> LTS verion
+1. Install <a href="https://nodejs.org/en/download/" target="_blank" alt="NodeJS">Node.js</a> LTS version
 
 2. Install <a href="https://git-scm.com/" target="_blank" alt="Git">Git</a> Stable version
 
