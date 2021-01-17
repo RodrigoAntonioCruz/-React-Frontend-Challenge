@@ -18,10 +18,14 @@ export const Container = styled.div`
   padding-bottom: 32px;
 
   @media screen and (min-width: 980px) {
-    margin-top: 5px;
+    margin-top: 10px;
     padding-bottom: 32px;
   }
 
+  @media only screen and (min-width: 1900px) {
+      margin-top: 30px;
+      
+  }
 `;
 
 export const SelectPeriodTitle = MaterialStyled(

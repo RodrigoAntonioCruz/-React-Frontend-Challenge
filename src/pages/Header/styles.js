@@ -113,8 +113,10 @@ export const Content = styled.div`
 `;
 
 export const TitleHeader = styled.div`
+  margin-top:20px;
   letter-spacing: 1.5px;
-  font-size: 16px;
+  line-height: 1.1;
+  font-size: 15px;
   color: ${colors.gray};
   font-weight: 500;
 `;
@@ -123,20 +125,33 @@ export const DescriptionHeader = styled.div`
   max-width: 750px;
 
   > p {
-    font-size: 23px;
-    margin: 15px 0 30px;
-    font-weight: bold;
-    text-align: center;
+      font-size: 23px;
+      margin: 15px 0 30px;
+      font-weight: bold;
+      text-align: center;
 
-    @media only screen and (max-width: 550px){
-       font-size: 20px;
-       width: 12em; 
-       word-wrap: break-word;
+    @media only screen and (max-width: 625px){
+      font-size: 23px;
+      width: 12em; 
+      word-wrap: break-word;
+      margin: 15px 0 20px;
     }
 
 
-    @media only screen and (min-width: 550px) {
-      font-size: 23px;
+    @media only screen and (min-width: 625px) {
+      font-size: 26px;
+      width: 23em; 
+      word-wrap: break-word;
+    }
+
+    @media only screen and (min-width: 1630px) {
+      font-size: 27px;
+      width: 23em; 
+      word-wrap: break-word;
+    }
+
+    @media only screen and (min-width: 1580px) {
+      font-size: 28px;
       width: 23em; 
       word-wrap: break-word;
     }
@@ -169,10 +184,10 @@ export const DescriptionView = styled.div`
 `;
 
 export const BoxContainer = styled.div`
-  height: 75px;
+  height: 70px;
   width: 100%;
   overflow: hidden;
-  bottom: 5px;
+  bottom: 6px;
   position: relative;
   z-index: 0;
 
@@ -198,18 +213,92 @@ export const BoxContainer = styled.div`
         transform: scale(1.05);
       }
     }
+  }
 
     @media only screen and (min-width: 340px) {
-      top: 0;
+
+      button{
+        top: -6.5px;
+      }
+      
     }
 
-    @media only screen and (min-width: 769px) {
-      margin-top: 1vh;
+    @media only screen and (min-width: 700px) {
+      button{
+        top: -6px;
+      }
+
     }
 
-    @media only screen and (min-width: 1500px) {
-      margin-top: 3vh;
+    @media only screen and (min-width: 800px) {
+      button{
+        margin-top: 0.1vh;
+      }
+      
+
     }
-  }
+
+    @media only screen and (min-width: 900px) {
+      button{
+        margin-top: 1vh;
+      }
+      height: 85px;
+    }
+
+    @media only screen and (min-width: 997px) {
+      button{
+        margin-top: 1vh;
+      }
+      height: 55px;
+    }
+
+    @media only screen and (min-width: 1220px) {
+      button{
+        margin-top: 2vh;
+      }
+     height: 60px;
+    }
+
+    @media only screen and (min-width: 1450px) {
+      button{
+        margin-top: 2.5vh;
+      }
+     height: 68px;
+    }
+
+    @media only screen and (min-width: 1700px) {
+      button{
+        margin-top: 3vh;
+      }
+     height: 70px;
+  
+    }
+
+    @media only screen and (min-width: 1900px) {
+      button{
+        margin-top: 3.5vh;
+      }
+
+     height: 68px;
+    
+    }
+
+    @media only screen and (min-width: 2250px) {
+      button{
+        margin-top: 4vh;
+      }
+      height: 70px;
+  
+    }
+
+    @media only screen and (min-width: 2294px) {
+      button{
+        margin-top: 4.5vh;
+      }
+      
+      height: 78px;
+    }
+
+
 `
 

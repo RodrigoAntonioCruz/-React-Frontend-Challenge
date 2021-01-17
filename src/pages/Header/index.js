@@ -53,8 +53,8 @@ const Header = () => {
         </HeaderContainer>
 
         <BoxContainer>
-          <svg viewBox="75 0 455 150" preserveAspectRatio="none">
-            <path d="M0.00,00.00 C250.00,20 230.00,20 525.10,00.00 L500.00,0.00 L0.00,0.00 Z"></path>
+          <svg viewBox="55 0 465 15" preserveAspectRatio="none">
+            <path d="M0.00,00.00 C220.00,15 200.00,20 523.10,00.00 L500.00,0.00 L0.00,0.00 Z"></path>
           </svg>
 
           <button onClick={() =>
