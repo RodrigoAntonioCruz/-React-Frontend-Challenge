@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Logo Hostgator" src="https://challenge.rodrigodacruz.com.br/static/LogoHostgator.png" />
+  <img align="center" alt="Logo Hostgator" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/LogoHostgator.png" />
 </p>
 
 <h3 align="center">
@@ -52,17 +52,17 @@ If you prefer, you can access the project running on this temporary <a href="htt
 #### Desktop screen capture
 
 <p align="center">
-  <img align="center" target="_blank" alt="Desktop screen capture" src="https://challenge.rodrigodacruz.com.br/static/screen-1.png"/>
+  <img align="center" target="_blank" alt="Desktop screen capture" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/screen-1.png"/>
 </p>
 
 #### Screenshot of modal
 
 <p align="center">
-  <img align="center" target="_blank" alt="Screenshot of modal" src="https://challenge.rodrigodacruz.com.br/static/screen-3.png"/>
+  <img align="center" target="_blank" alt="Screenshot of modal" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/screen-3.png"/>
 </p>
 
 #### Screenshot mobile device
 
 <p align="center">
-  <img align="center" target="_blank" alt="Screenshot mobile device" src="https://challenge.rodrigodacruz.com.br/static/screen-2.png"/>
+  <img align="center" target="_blank" alt="Screenshot mobile device" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/screen-2.png"/>
 </p>
