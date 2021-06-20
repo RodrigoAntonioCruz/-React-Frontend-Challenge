@@ -41,11 +41,6 @@ Create a web page following this <a href="https://xd.adobe.com/spec/31631e0c-bd8
 4. The project is available at http: // localhost: 3000, in your browser.
 
 
-### Project running
-
-If you prefer, you can access the project running on this temporary <a href="https://challenge.rodrigodacruz.com.br/" target="_blank" alt="Challenge link">Link.</a>
-
-
 ### Application screenshots
 
 
