@@ -52,7 +52,7 @@ If you prefer, you can access the project running on this temporary <a href="htt
 #### Desktop screen capture
 
 <p align="center">
-  <img align="center" target="_blank" alt="Desktop screen capture" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/screen-1.png"/>
+  <img align="center" target="_blank" alt="Desktop screen capture" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/screen-4.png"/>
 </p>
 
 #### Screenshot of modal
