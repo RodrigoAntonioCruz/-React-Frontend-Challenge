@@ -47,7 +47,7 @@ Create a web page following this <a href="https://xd.adobe.com/spec/31631e0c-bd8
 #### Desktop screen capture
 
 <p align="center">
-  <img align="center" target="_blank" alt="Desktop screen capture" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/screen-4.png"/>
+  <img align="center" target="_blank" alt="Desktop screen capture" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/screen-1.png"/>
 </p>
 
 #### Screenshot of modal
